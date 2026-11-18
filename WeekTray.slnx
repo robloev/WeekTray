@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="src/WeekTray/WeekTray.csproj" />
+  <Project Path="tests/WeekTray.Tests/WeekTray.Tests.csproj" />
+</Solution>
